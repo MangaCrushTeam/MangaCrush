@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-MC Team built the Tachiyomi app as a Commercial app. This SERVICE is provided by MC Team and is intended for use as is.
+MC Team built the Tachimanga app as a Commercial app. This SERVICE is provided by MC Team and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
